@@ -13,7 +13,7 @@ public class Bacata {
         this.porcentajeMillas = porcentajeMillas;
     }
 	
-	//Modificar para probar git
+	//Modificacion para proba ejemplo
     
     public double[] calcularMillas(double porMillas, double valor){
         double millasAcum=0;
